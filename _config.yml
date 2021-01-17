@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pierre Illien"
   avatar           : "pierre.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "CNRS researcher @ Sorbonne Université"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.co.uk/citations?user=7olTWfAAAAAJ&hl=en&oi=ao"
+  email            : "ppp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
