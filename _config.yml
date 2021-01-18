@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -83,12 +83,12 @@ author:
   name             : "Pierre Illien"
   avatar           : "pierre.png"
   bio              : "CNRS researcher @ Sorbonne Université"
-  location         : "Location"
+  location         : "https://goo.gl/maps/JudW68f78M8ZUBiJA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=7olTWfAAAAAJ&hl=en&oi=ao"
-  email            : "ppp"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "pierre.illien@sorbonne-universite.fr"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
