@@ -2,27 +2,27 @@
 main:
   - title: "research"
     url: /research/
-    
-  - title: "publications"
-    url: /publications/
 
-  - title: "publications2"
+#  - title: "publications"
+#    url: /publications/
+
+  - title: "publications"
     url: /publis/
 
 #  - title: "Talks"
-#    url: /talks/    
+#    url: /talks/
 
   - title: "teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
+
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
+
   - title: "about"
     url: /cv/
-    
+
 #  - title: "Guide"
 #    url: /markdown/
