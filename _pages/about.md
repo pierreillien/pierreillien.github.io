@@ -14,6 +14,8 @@ Hello!
 
 I am a theoretical physicist, interested in nonequilibrium statistical mechanics and low Reynolds number hydrodynamics. I use analytical calculations and numerical simulations to answer questions inspired from soft and living matter.
 
+I am a CNRS researcher, and I am a member of PHENIX lab (Physical chemistry of electrolytes and interfacial nanosystems), hosted by Sorbonne Université.
+
 
 <!--
 
