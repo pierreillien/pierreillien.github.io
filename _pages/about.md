@@ -11,7 +11,7 @@ redirect_from:
 ### Hello!
 
 
-I am a theoretical physicist, interested in nonequilibrium statistical mechanics and low Reynolds number hydrodynamics. I use analytical tools and numerical simulations to address fundamental problems, and to answer questions inspired from soft and living matter.
+I am a theoretical physicist, interested in nonequilibrium statistical mechanics and low Reynolds number hydrodynamics. I use analytical tools and numerical simulations to answer questions inspired from soft and living matter.
 
 
 <!--
