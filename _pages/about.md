@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pierre Illien - Homepage"
+#title: "Pierre Illien - Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 ### Hello!
 
 
-I am a theoretical physicist, interested in nonequilibrium statistical mechanics and low Reynolds number hydrodynamics. I use analytical tools and numerical simulations to answer questions inspired from soft and living matter.
+I am a theoretical physicist, interested in nonequilibrium statistical mechanics and low Reynolds number hydrodynamics. I use analytical calculations and numerical simulations to answer questions inspired from soft and living matter.
 
 
 <!--
