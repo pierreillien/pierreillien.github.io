@@ -16,6 +16,7 @@ I am a theoretical physicist, interested in nonequilibrium statistical mechanics
 
 I am a CNRS researcher, and I am a member of PHENIX lab (Physical chemistry of electrolytes and interfacial nanosystems), hosted by Sorbonne Université.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4422.200523709935!2d2.358548130328826!3d48.845592011925596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671fa8dc1c30b%3A0xf0b82c4672cb0c0!2sSorbonne%20Universit%C3%A9%20Campus%20Pierre%20et%20Marie%20Curie!5e0!3m2!1sfr!2sfr!4v1611093917338!5m2!1sfr!2sfr" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 <!--
 
