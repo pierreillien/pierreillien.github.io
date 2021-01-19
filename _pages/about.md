@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Pierre Illien - Homepage"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
