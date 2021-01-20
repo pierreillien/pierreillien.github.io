@@ -11,6 +11,7 @@ redirect_from:
 Hello!
 ======
 
+ <p>I will display &#128540;</p>
 
 I am a **theoretical physicist**, interested in **nonequilibrium statistical mechanics** and **low Reynolds number hydrodynamics**. I use analytical calculations and numerical simulations to answer questions inspired from soft and living matter.
 
