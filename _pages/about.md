@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! &#128075
+Hello! &#128075;
 ======
 
-<h1>Hello! &#128075</h1>
+<h1>Hello! &#128075;</h1>
 
 
  <!--<p>I will display &#128540;</p> -->
