@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! &#128075;
+Welcome! &#128075;
 ======
 
 
