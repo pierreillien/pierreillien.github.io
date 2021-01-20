@@ -1,5 +1,5 @@
 ---
-layout: archive
+#layout: archive
 title: "about me"
 permalink: /about_me/
 author_profile: true
