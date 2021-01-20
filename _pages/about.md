@@ -11,7 +11,7 @@ redirect_from:
 Hello! &#128075;
 ======
 
-<p>👨🏻‍💻 💻</p> 
+
 
 
  <!--<p>I will display &#128540;</p> -->
@@ -20,7 +20,10 @@ I am a **theoretical physicist**, interested in **nonequilibrium statistical mec
 
 I am a CNRS permanent researcher, and a member of [PHENIX lab](https://phenix.cnrs.fr/) (Physical chemistry of electrolytes and interfacial nanosystems), hosted by [Sorbonne Université](https://www.sorbonne-universite.fr/) (campus Pierre-et-Marie-Curie, Paris 5ème).
 
-&#128104;
+<p>👨🏻‍💻 pierre (dot) illien (at) sorbonne-universite (dot) fr</p>
+
+<p>📝 Sorbonne Université - Laboratoire PHENIX - 4 place Jussieu - 75005 Paris, France</p>
+
 
 
 <center>
