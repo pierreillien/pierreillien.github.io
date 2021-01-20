@@ -3,6 +3,9 @@ layout: archive
 title: "about me"
 permalink: /about_me/
 author_profile: true
+redirect_from:
+  - /cv/
+  - /about_me.html
 ---
 
 I joined CNRS in 2019 as a permanent research scientist (*chargé de recherche*).
