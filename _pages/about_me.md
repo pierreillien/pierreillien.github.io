@@ -8,7 +8,7 @@ redirect_from:
   - /about_me.html
 ---
 
-I joined CNRS in 2019 as a permanent research scientist (*chargé de recherche*).
+I joined CNRS in 2018 as a permanent research scientist (*chargé de recherche*).
 
 Before that, I was a postdoctoral researcher, first in the group of <a href="https://www-thphys.physics.ox.ac.uk/people/RaminGolestanian/">Ramin Golestanian</a> (Rudolf Peierls Centre for Theoretical Physics, University of Oxford), and then in the group of <a href="https://www.ec2m.espci.fr/accueil/membres/olivier-dauchot.html">Olivier Dauchot</a> (ESPCI Paris).
 
