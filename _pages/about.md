@@ -20,7 +20,7 @@ Hello!
 
 I am a **theoretical physicist**, interested in **nonequilibrium statistical mechanics** and **low Reynolds number hydrodynamics**. I use analytical calculations and numerical simulations to answer questions inspired from soft and living matter.
 
-I am a CNRS permanent researcher, and a member of [PHENIX lab](https://phenix.cnrs.fr/) (Physical chemistry of electrolytes and interfacial nanosystems), hosted by [Sorbonne Université](https://www.sorbonne-universite.fr/) (campus Pierre-et-Marie-Curie, Paris 5ème).
+I am a CNRS permanent researcher (*chargé de recherche*), and a member of [PHENIX lab](https://phenix.cnrs.fr/) (Physical chemistry of electrolytes and interfacial nanosystems), hosted by [Sorbonne Université](https://www.sorbonne-universite.fr/) (campus Pierre-et-Marie-Curie, Paris 5ème).
 
 <p>👨🏻‍💻 pierre (dot) illien (at) sorbonne-universite (dot) fr</p>
 
