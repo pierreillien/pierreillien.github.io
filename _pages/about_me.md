@@ -12,6 +12,6 @@ I completed my undergraduate studies at the Physics department of <a href="https
 
 I received my PhD from Université Pierre-et-Marie-Curie (Paris). My thesis manuscript, entitled "Flucutations and correlations of a driven tracer in a hardcore lattice gas", is available <a href="https://tel.archives-ouvertes.fr/tel-01241215/document">online</a>.
 
-Before joining CNRS in 2018 as a permanent research scientist (*chargé de recherche*), I was a postdoctoral researcher at Rudolf Peierls Centre for Theoretical Physics (University of Oxford), and at ESPCI Paris.
+Before joining CNRS in 2018 as a permanent research scientist (*chargé de recherche*), I was a postdoctoral researcher at the Rudolf Peierls Centre for Theoretical Physics (University of Oxford), and at ESPCI Paris.
 
 
