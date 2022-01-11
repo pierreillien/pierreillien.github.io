@@ -13,7 +13,7 @@ redirect_from:
 Hello!
 ======
 
-[Master Internship](files/stage_ILLIEN_2022.pdf)
+[Master Internship](/files/stage_ILLIEN_2022.pdf)
 
 
 
