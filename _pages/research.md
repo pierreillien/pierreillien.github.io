@@ -6,15 +6,16 @@ author_profile: true
 ---
 
 
-# Dynamics and correlations of tracers in complex environments
+## Dynamics and correlations of tracers in complex environments
 
 
 
-# Propulsion of isotropic active particles
+
+## Propulsion of isotropic active particles
 
 
 
-# Chemotaxis and synchronization of enzyme molecules
+## Chemotaxis and synchronization of enzyme molecules
 
 
 
