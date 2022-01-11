@@ -13,7 +13,7 @@ redirect_from:
 Hello!
 ======
 
-**Jan 2022: [Master internship](/files/stage_ILLIEN_2022.pdf) available! 📝 Please contact me if interested.**
+<span style="color:blue"><b>News: January 2022: [Master internship](/files/stage_ILLIEN_2022.pdf) available! 📝 Please contact me if interested.</b></span>
 
 
 
