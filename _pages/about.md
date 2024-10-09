@@ -10,7 +10,8 @@ redirect_from:
 
 <!--Welcome! &#128075;-->
 
-<span style="color:blue">Open position in 2025: master internship & fully funded PhD thesis</span>
+<span style="color:red">**Open position in 2025: master internship & fully funded PhD thesis**</span>  [\[pdf\]](/files/stage_2025_ILLIEN.pdf)
+===
 
 
 
