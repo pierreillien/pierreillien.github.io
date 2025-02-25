@@ -6,13 +6,13 @@ main:
 #  - title: "publications"
 #    url: /publications/
 
-  - title: "publications"
+  - title: "Publications"
     url: /publis/
 
 #  - title: "Talks"
 #    url: /talks/
 
-  - title: "teaching"
+  - title: "Teaching"
     url: /enseignement/
 
 #  - title: "Portfolio"
@@ -21,7 +21,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "about"
+  - title: "About"
     url: /about_me/
 
 #  - title: "Guide"
