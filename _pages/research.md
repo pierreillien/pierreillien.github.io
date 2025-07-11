@@ -30,6 +30,7 @@ My research aims to advance our understanding of transport phenomena in electrol
 
 ## Stochastic dynamics of interacting particles and tracer diffusion
 
+![image](/img/tracer_diff.png)
 
 
 I have developed theoretical tools to describe fluctuation phenomena in systems of interacting particles, with a focus on stochastic density field theories and the Dean-Kawasaki equation. I derived exact non-Gaussian correlations beyond standard linearized treatments of the Dean-Kawasaki equation and reviewed its foundational role in stochastic density functional theory (SDFT), highlighting connections with frameworks such as fluctuating hydrodynamics and macroscopic fluctuation theory. I also investigated the dynamics of interacting Brownian particles on complex geometries and revealed universal correlation profiles in single-file transport, extending beyond traditional one-dimensional systems. In other studies, I proposed a microscopic theory for absolute negative mobility in crowded active systems and extended linear response theory for driven tracers in the symmetric exclusion process. I further derived an exact closure for spatial correlations in single-file diffusion, providing new insights into the structure of interactions that give rise to anomalous transport. These contributions form a versatile framework for analyzing fluctuations, correlations, and transport in soft and active matter systems.
