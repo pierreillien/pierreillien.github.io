@@ -22,7 +22,7 @@ Additionally, using a combination of **microscopic stochastic simulations** and 
 
 ## Charged, Coulomb-like and polar suspensions 
 
-![image](/img/charged_and_chemotactic.png)
+![image](/img/charged_and_chemotactic.png){:width="700px"}
 
 
 We also aim at advancing our understanding of transport phenomena in **electrolytes** and **chemically active systems** by developing theoretical models that incorporate microscopic fluctuations and solvent effects. We have extended stochastic density functional theory (SDFT) to explicitly account for the [polar nature of solvents](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.268002), enabling the computation of key observables such as charge structure factors and dielectric susceptibilities. This approach highlights how ion–solvent interactions influence the dynamic behavior of electrolytes. In parallel, I have analyzed transport properties in concentrated electrolytes, such as [conductivity and self-diffusion](https://pubs.aip.org/aip/jcp/article/159/16/164105/2918211/On-analytical-theories-for-conductivity-and-self), evaluating recent approximations within SDFT and comparing them with classical theories. This work emphasizes the importance of short-range interactions and hydrodynamic corrections in improving theoretical predictions. 
