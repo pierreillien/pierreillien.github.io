@@ -18,9 +18,9 @@ redirect_from:
 Hello!
 ======
 
-![image](img/bandeau.png)
-
 I am a **theoretical physicist**, interested in **nonequilibrium statistical mechanics**. I use analytical calculations and numerical simulations to answer questions inspired from **soft and living matter**. Find out more about my [research interests](https://pierreillien.github.io/research/) and my [publications](https://pierreillien.github.io/publis/).
+
+![image](img/bandeau.png)
 
 I am a CNRS permanent researcher (*chargé de recherche*), and a member of [PHENIX lab](https://phenix.cnrs.fr/) (Physical chemistry of electrolytes and interfacial nanosystems), hosted by [Sorbonne Université](https://www.sorbonne-universite.fr/) (campus Pierre-et-Marie-Curie, Paris 5ème).
 
