@@ -10,7 +10,7 @@ author_profile: true
 
 Our research investigates the physics of **active soft matter systems** and **biomolecular condensates,** with a strong focus on understanding **diffusion and transport** phenomena in complex, nonequilibrium environments. 
 
-<img src="files/tracer_diff_in_noneq_mixtures.png" alt="" width="200"/>
+<img src="files/tracer_diff_in_noneq_mixtures.png" alt="" width="500"/>
 
 
 A significant part of my work explores the diffusion of tracer particles within dense mixtures of soft particles, often connected to different thermostats, revealing how activity and crowding affect tracer mobility and challenge classical diffusion theories. I develop analytical frameworks based on linearized density field theories and path-integral methods that accurately describe tracer diffusion in these heterogeneous and active media. My results also highlight the impact of nonreciprocal interactions on diffusion enhancement and the breakdown of traditional relations like the Einstein relation.
