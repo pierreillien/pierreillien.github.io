@@ -18,7 +18,7 @@ redirect_from:
 Hello!
 ======
 
-
+![image](img/bandeau.png)
 
 I am a **theoretical physicist**, interested in **nonequilibrium statistical mechanics**. I use analytical calculations and numerical simulations to answer questions inspired from **soft and living matter**. Find out more about my [research interests](https://pierreillien.github.io/research/) and my [publications](https://pierreillien.github.io/publis/).
 
