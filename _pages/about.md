@@ -32,7 +32,7 @@ CV [\[in English\]](/files/CV_Pierre_ILLIEN_EN_Dec2024.pdf) [\[in French\]](/fil
 
 
 
-======
+---
 
 
 <b>Recent research highlights:</b>
