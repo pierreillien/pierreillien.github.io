@@ -30,7 +30,7 @@ I am a CNRS permanent researcher (*chargé de recherche*), and a member of [PHEN
 
 <p>CV [\[in English\]](/files/CV_Pierre_ILLIEN_EN_Dec2024.pdf) [\[in French\]](/files/CV_Pierre_ILLIEN_FR_Dec2024.pdf) (last updated: Dec 2024)</p>
 
-## News
+<p><b>News</b></p>
 
 
 <center>
