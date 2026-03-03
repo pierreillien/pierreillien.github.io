@@ -34,7 +34,7 @@ CV [\[in English\]](/files/CV_Pierre_ILLIEN_EN_Dec2024.pdf) [\[in French\]](/fil
 
 <ul>
   <li>Coffee</li>
-  <li>Tea</li>
+  <li>Our work on particle sweeping by active filaments was featured in Physics Magazine: <i><a href="https://physics.aps.org/articles/v19/2">Worm-Inspired Active Filaments Sweep Disorder into Order</a></i> </li>
   <li>Milk</li>
 </ul>
 
