@@ -39,10 +39,11 @@ CV [\[in English\]](/files/CV_Pierre_ILLIEN_EN_Dec2024.pdf) [\[in French\]](/fil
 
 <ul>
   <li>Jan 2026: Our work on <a href="https://pierreillien.github.io/files/Illien_53.pdf">particle sweeping by active filaments</a> was featured in Physics Magazine: <i><a href="https://physics.aps.org/articles/v19/2">Worm-Inspired Active Filaments Sweep Disorder into Order.</a></i> </li>
-  <li>Dec 2025: Read more (in French!) about our work on <a href="https://pierreillien.github.io/files/Illien_51.pdf">control of encounter kinetics by chemically active droplets</a>:<a href="https://www.inc.cnrs.fr/fr/cnrsinfo/comment-des-gouttelettes-dans-les-cellules-regulent-les-reactions-chimiques">https://www.inc.cnrs.fr/fr/cnrsinfo/comment-des-gouttelettes-dans-les-cellules-regulent-les-reactions-chimiques</a>.</li>
-
+  <li>Dec 2025: Read more (in French!) about our work on <a href="https://pierreillien.github.io/files/Illien_51.pdf">control of encounter kinetics by chemically active droplets</a>:<a href="https://www.inc.cnrs.fr/fr/cnrsinfo/comment-des-gouttelettes-dans-les-cellules-regulent-les-reactions-chimiques"><i>Comment des gouttelettes dans les cellules régulent les réactions chimiques </i></a>.</li>
 </ul>
 
+
+<br><br>
 
 
 
